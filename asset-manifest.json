@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trial/static/css/main.4aa4df99.css",
+    "main.js": "/trial/static/js/main.3a4a8785.js",
+    "static/js/787.f587e8d5.chunk.js": "/trial/static/js/787.f587e8d5.chunk.js",
+    "static/media/Nagarrologo.webp": "/trial/static/media/Nagarrologo.1ff6c4f877528feee1cc.webp",
+    "index.html": "/trial/index.html",
+    "main.4aa4df99.css.map": "/trial/static/css/main.4aa4df99.css.map",
+    "main.3a4a8785.js.map": "/trial/static/js/main.3a4a8785.js.map",
+    "787.f587e8d5.chunk.js.map": "/trial/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aa4df99.css",
+    "static/js/main.3a4a8785.js"
+  ]
+}
